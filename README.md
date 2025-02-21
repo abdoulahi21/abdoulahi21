@@ -40,24 +40,6 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git,dart" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java,nextjs,mysql,flask,laravel,c#,c++,oracle,Flutter" /><br>
 </div>
-
-<br/>
-<hr/>
-
-<hr/>
-
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
 <!---
 abdoulahi21/abdoulahi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
